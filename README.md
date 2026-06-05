@@ -39,7 +39,7 @@
 | # | Title | Venue | Level | Status |
 |---|-------|-------|-------|--------|
 | 5 | **Automated Density Peak Clustering** | *IEEE Trans. Knowledge and Data Engineering* | `CCF A` `JCR Q1` | 🔄 Under Review |
-| 6 | **kFuse: A Novel Density Based Agglomerative Clustering** | *IEEE Trans. Cybernetics* | `CCF A` `JCR Q1` | 📨 Submitted |
+| 6 | **kFuse: A Novel Density Based Agglomerative Clustering** | *IEEE Trans. Cybernetics* | `CCF A` `JCR Q1` | 🔄 Under Review |
 
 ---
 
