@@ -64,19 +64,25 @@
 
 ---
 
-## 💻 Tech Stack
+## �️ Skills & Experience
+
+- **AI Agent 开发** — 具备 AI Agent 开发经验，熟悉智能体架构设计与落地实践。参与实现包括智能客服、群智能助手、Agent runtime 平台等多项 Agent 系统
+- **DevOps** — 熟悉 DevOps 工具链（GitHub → Jenkins → Docker），拥有相关项目的完整 CI/CD 经验，能够独立推进功能落地与方案实现
+
+---
+
+## �💻 Tech Stack
 
 <div align="center">
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
