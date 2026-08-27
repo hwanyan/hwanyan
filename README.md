@@ -64,14 +64,14 @@
 
 ---
 
-## �️ Skills & Experience
+## 🏷️ Skills & Experience
 
 - **AI Agent 开发** — 具备 AI Agent 开发经验，熟悉智能体架构设计与落地实践。参与实现包括智能客服、群智能助手、Agent runtime 平台等多项 Agent 系统
 - **DevOps** — 熟悉 DevOps 工具链（GitHub → Jenkins → Docker），拥有相关项目的完整 CI/CD 经验，能够独立推进功能落地与方案实现
 
 ---
 
-## �💻 Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
