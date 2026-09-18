@@ -39,7 +39,7 @@
 | # | Title | Venue | Level | Status |
 |---|-------|-------|-------|--------|
 | 5 | **Automated Clustering With Density Peak** | *Pattern Recognition* | `CCF B` `JCR Q1` | 🔄 Under Review |
-| 6 | **kFuse: A Novel Density Based Agglomerative Clustering** | *IEEE Trans. Cybernetics* | `CCF A` `JCR Q1` | 🔄 Under Review |
+| 6 | **kFuse: A Novel Density Based Agglomerative Clustering** | *Knowledge-Based Systems* | `CCF C` `JCR Q1` | 🔄 Under Review |
 
 ---
 
